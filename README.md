@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **KYUUUW/kyuuuw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![kyuuuw's github stats](https://github-readme-stats.vercel.app/api?username=kyuuuw&count_private=true&show_icons=true&theme=prussian&hide_border=true&include_all_commits=1)](https://github.com/kyuuuw/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuuuw&layout=compact&hide_border=true&hide=css,html&title_color=bddfff&icon_color=38a0ff&text_color=6e93b5&bg_color=172f45)](https://github.com/kyuuuw/github-readme-stats)
