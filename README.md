@@ -3,7 +3,7 @@
 
 <div style="background-color: white;">
   
-  ![header](https://capsule-render.vercel.app/api?type=slice&color=0D5B98&height=170&section=header&text=%20Kyuwon&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100&animation=twinkling)
+  ![header](https://capsule-render.vercel.app/api?type=slice&color=0D5B98&height=170&section=header&text=%20Kyuwon&fontColor=666666&fontAlignX=45&fontAlignY=65&fontSize=100&animation=twinkling)
 
 <br>
   <p align="center">
