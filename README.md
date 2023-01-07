@@ -1,13 +1,3 @@
-
-
-
-<br>
-  <p align="center">
-😀😀
-</p>
-
-<br>
-
 <h3 align="center"> 🔧 Tech 🔧 </h3>
 <p align="center">   
   <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-43853D?style=flat-square&logo=Node.js&logoColor=white"/>
@@ -33,8 +23,4 @@
   <a href="https://www.instagram.com/grow_u.u_p/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/grow_u.u_p/"/></a>
   <a href="https://velog.io/@kyuuuw"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=vimeo&logoColor=white&link=https://velog.io/@kyuuuw"/></a>
 </p>
-
-![footer](https://capsule-render.vercel.app/api?type=slice&color=0D5B98&height=150&section=footer)
-  
-</div>
 
